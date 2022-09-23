@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Yusuf</h1>
-<h3 align="center">Ambitious Frontend Developer with 2 years+ of experience in profitable companies. Boosts sales and engagement with high-quality products. Skilled in SEO. With previous experience as a designer makes collaboration with designers easier.</h3>
+<h3 align="center">Ambitious Frontend Developer with 3 years+ of experience in profitable companies. Boosts sales and engagement with high-quality products. Skilled in SEO. With previous experience as a designer makes collaboration with designers easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanueloluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="emmanueloluwafemi" /> </p>
 
